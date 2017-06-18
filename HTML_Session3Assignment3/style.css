@@ -1,0 +1,10 @@
+#div1 {
+position:relative;
+}
+#div2 {
+position:absolute;
+display:none;
+}
+#div1:hover #div2 {
+display:block;
+}
