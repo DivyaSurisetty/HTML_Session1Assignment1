@@ -1,0 +1,11 @@
+.div1{
+background-image: url('peacock.jpg');
+width:500px;
+height:500px;
+transition: border-radius 2s,width 2s,height 2s;
+}
+.div1:hover{
+border-radius:100px;
+width:100px;
+height:100px;
+}
